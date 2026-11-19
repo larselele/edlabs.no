@@ -107,7 +107,14 @@ main section + section { margin-top: 48px; }
 .facts dd { margin: 0; }
 
 .english { margin-top: 48px; max-width: 34em; }
-.english h2 { font-size: 0.85rem; margin-bottom: 8px; }
+.english h2 {
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--text);
+  margin-bottom: 4px;
+}
 .english p { color: var(--muted); margin: 0; }
 
 .prose h1 { font-size: 2rem; margin-top: 48px; }
