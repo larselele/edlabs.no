@@ -106,7 +106,9 @@ main section + section { margin-top: 48px; }
 .facts dt { color: var(--muted); }
 .facts dd { margin: 0; }
 
-.english p { color: var(--muted); }
+.english { margin-top: 48px; max-width: 34em; }
+.english h2 { font-size: 0.85rem; margin-bottom: 8px; }
+.english p { color: var(--muted); margin: 0; }
 
 .prose h1 { font-size: 2rem; margin-top: 48px; }
 .prose h2 {
