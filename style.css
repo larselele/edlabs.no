@@ -1,21 +1,22 @@
 :root {
+  /* Edlabs brand: ink #26215C, accent #7F77DD (dark mode: #AFA9EC) */
   --bg: #fbfaf7;
-  --text: #1d1d1f;
-  --muted: #5f6368;
-  --line: #e4e1da;
+  --text: #26215C;
+  --muted: #5e5a80;
+  --line: #e2e0ec;
   --card: #ffffff;
-  --accent: #2f5bd3;
+  --accent: #534AB7;
   color-scheme: light dark;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #141414;
-    --text: #f2f2f2;
-    --muted: #a3a3a3;
-    --line: #2e2e2e;
-    --card: #1c1c1c;
-    --accent: #8aa8ff;
+    --bg: #26215C;
+    --text: #ffffff;
+    --muted: #c3bfe6;
+    --line: #3c3489;
+    --card: #2e2868;
+    --accent: #AFA9EC;
   }
 }
 
@@ -46,6 +47,9 @@ header { padding-top: 28px; }
 }
 
 a { color: var(--accent); }
+
+.logo img, .brand img { display: block; height: auto; }
+.brand { margin: 0 0 24px; }
 
 h1 {
   font-size: clamp(2rem, 6vw, 2.75rem);

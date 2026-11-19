@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="24 11.51 55.49 55.49" width="221.95" height="221.95" role="img" aria-label="Edlabs">
+  <title>Edlabs</title>
+  <rect x="24" y="46" width="16" height="16" rx="3" fill="#FFFFFF"/>
+  <rect x="43" y="46" width="16" height="16" rx="3" fill="#FFFFFF"/>
+  <rect x="62.75" y="46.75" width="14.5" height="14.5" rx="2.5" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-dasharray="3 2.5"/>
+  <rect x="62" y="18" width="16" height="16" rx="3" fill="#AFA9EC" transform="rotate(-12 70 26)"/>
+</svg>
