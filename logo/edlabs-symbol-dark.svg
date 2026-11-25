@@ -2,6 +2,6 @@
   <title>Edlabs</title>
   <rect x="24" y="46" width="16" height="16" rx="3" fill="#FFFFFF"/>
   <rect x="43" y="46" width="16" height="16" rx="3" fill="#FFFFFF"/>
-  <rect x="62.75" y="46.75" width="14.5" height="14.5" rx="2.5" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-dasharray="3 2.5"/>
+  <path d="M70 46.75H74.75A2.5 2.5 0 0 1 77.25 49.25V58.75A2.5 2.5 0 0 1 74.75 61.25H65.25A2.5 2.5 0 0 1 62.75 58.75V49.25A2.5 2.5 0 0 1 65.25 46.75Z" pathLength="80" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-dasharray="5.5 4.5" stroke-dashoffset="2.75"/>
   <rect x="62" y="18" width="16" height="16" rx="3" fill="#AFA9EC" transform="rotate(-12 70 26)"/>
 </svg>
